@@ -1,7 +1,9 @@
 # Portfolio Website
 
-This is my personal portfolio website built using React.js.
+## About This Project
+This is my personal portfolio website built using React and Tailwind CSS.
 It showcases my skills, projects, and contact information.
+
 
 ## Tech Stack
 - React.js
