@@ -21,7 +21,7 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            A developer passionate about crafting modern web applications and turning data into meaningful visual insights.  
+          A passionate web developer focused on building modern, responsive applications and meaningful digital experiences.    
 I enjoy building clean, responsive user interfaces and continuously learning new technologies.
 
           </p>
